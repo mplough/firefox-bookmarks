@@ -13,7 +13,7 @@ bookmarks HTML file exported from the secondary browser and generates an HTML
 file containing links whose addresses only appear in the secondary file.  I can
 then import this generated file into my primary browser and move bookmarks
 around as I see fit, with the assurance that I'm not bringing in duplicate
-links.
+links.  This tool also can handle bookmarks exported from Safari.
 
 A pain? Yes.  The best solution? Probably not.  It was fun to make though, and
 I'm looking to maximize fun.
